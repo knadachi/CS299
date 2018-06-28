@@ -1,0 +1,6 @@
+hello, good morning!
+
+Welcome to CS299 news room.
+
+Here is today's top news.
+
